@@ -1365,7 +1365,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>MesloLGS-NF-Regular 18</string>
+			<string>mononoki-Regular 18</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -2271,9 +2271,9 @@
 	<key>TabStyleWithAutomaticOption</key>
 	<integer>6</integer>
 	<key>TerminalMargin</key>
-	<integer>10</integer>
+	<integer>20</integer>
 	<key>TerminalVMargin</key>
-	<integer>15</integer>
+	<integer>25</integer>
 	<key>UseBorder</key>
 	<false/>
 	<key>VisualIndicatorForEsc</key>
